@@ -1,7 +1,5 @@
 # OpenSource-Dictionary-Project
 
-程式碼整理中，預計數天內能完成
-
 開源英漢即時字典計畫--GNU GPL授權
 
 使用AndroidStudio匯入專案
