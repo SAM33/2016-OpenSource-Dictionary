@@ -1,6 +1,6 @@
-# OpenSource-Dictionary-Project
+# OpenSource-Dictionary
 
-開源英漢即時字典計畫--GNU GPL授權
+開源英漢即時字典--GNU GPL授權
 
 使用AndroidStudio匯入專案
 <pre>
